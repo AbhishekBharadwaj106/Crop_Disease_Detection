@@ -1,0 +1,2 @@
+# Crop_Disease_Detection
+ARTIFICIAL INTELLIGENCE - DEEP LEARNING PROJECT (on going)
